@@ -4,7 +4,7 @@
 
 InnerUpload runs entirely inside [Google Colab](https://colab.research.google.com), so the download happens on Google's infrastructure and lands directly in your Google Drive. No local bandwidth used, no speed limits from your ISP.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/innerupload/blob/main/InnerUpload.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mohsen-graphyy/InnerUploader/blob/main/InnerUploader-code.ipynb)
 
 ---
 
@@ -25,11 +25,6 @@ Your link  →  Google Colab (downloads)  →  Your Google Drive
 | Source | Example |
 |---|---|
 | Direct HTTP/HTTPS | `https://example.com/file.zip` |
-| Google Drive (share link) | `https://drive.google.com/file/d/...` |
-| Dropbox | `https://www.dropbox.com/s/...` |
-| GitHub Releases | `https://github.com/user/repo/releases/download/...` |
-| Most public servers | Any server that doesn't require login |
-
 ---
 
 ## Quick start
